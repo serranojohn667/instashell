@@ -1,0 +1,8 @@
+cd instashell/
+chmod 775 instashell.sh
+chmod 775 install.sh
+./instashell.sh
+account ussername: mr.smifff
+account password: Isaac123$
+blogshacking
+password.list
